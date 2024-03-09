@@ -43,7 +43,3 @@ This project encompasses a suite of MATLAB functions designed for the compressio
 
 ## Usage Instructions
 To utilize the functionalities provided in this project, ensure access to the MNIST dataset and suitable images for processing. Each script should be executed within the MATLAB environment, following the specific instructions provided within each file's comments. Ensure all dependencies are met and that the path to your dataset is correctly configured within the scripts.
-
----
-
-This README offers a comprehensive overview of the functionalities embedded within each file of the Image Compression and Analysis Project. For detailed usage instructions and further information, please refer to the source code comments in each MATLAB script.
